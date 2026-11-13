@@ -1,0 +1,11 @@
+# Core packages for Practicals 1-5 (Python 3.10 or 3.11 recommended)
+tensorflow>=2.15,<2.20
+numpy
+matplotlib
+gensim>=4.3.3
+pillow
+
+# Practical 6 requires PyTorch and TorchVision.
+# Install the matching versions for your computer from https://pytorch.org/get-started/locally/
+# Example CPU-only install (Windows/Linux):
+# pip install torch torchvision
